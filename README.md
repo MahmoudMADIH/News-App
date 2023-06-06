@@ -2,10 +2,12 @@
 
 designed by [Mahmoud Madih ](https://dribbble.com/Madih)
 
+![ezgif-5-28beedfa37](https://github.com/MahmoudMADIH/News-App/assets/101363586/28e6d91b-7e60-4fb0-afe7-971a2d9f8549)
 
-Uploading video6050797510547476112.mp4…
 
+![photo1686011023 (1)](https://github.com/MahmoudMADIH/News-App/assets/101363586/eec4d052-d2c3-43a0-baf9-f934c05e45b3)
 
+![photo1686011023](https://github.com/MahmoudMADIH/News-App/assets/101363586/382750fa-0cb9-46c5-811d-5855dae86dd9)
 
 ## Pull Requests
 
